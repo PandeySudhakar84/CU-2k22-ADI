@@ -2,7 +2,7 @@ package Lec26;
 import java.util.Arrays;
 public class MCM {
     public static void main(String[] args) {
-        int arr[]={10,20,30,40};
+        int arr[]={1,2,3,4,3};
         int dp[][]=new int[arr.length][arr.length];
         for(int a[]:dp){
             Arrays.fill(a,-1);
