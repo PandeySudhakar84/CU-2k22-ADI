@@ -19,5 +19,5 @@ public class DiceProblem {
 //        Dice(n,cur+1,ans+1);
 //        Dice(n,cur+2,ans+2);
 //        Dice(n,cur+3,ans+3);
-    }
+    } 
 }
