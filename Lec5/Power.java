@@ -13,4 +13,4 @@ public class Power {
        int fn=Pow(a,b-1);
        return a*fn;
     }
-}
+} 
