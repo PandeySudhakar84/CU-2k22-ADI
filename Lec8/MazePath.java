@@ -16,6 +16,6 @@ public class MazePath {
             return;
         }
         Path(Maze,cr,cc+1,er,ec,ans+"H");
-        Path(Maze,cr+1,cc,er,ec,ans+"V");
+        Path(Maze,cr+1,cc,er,ec,ans+"V"); 
     }
 }
